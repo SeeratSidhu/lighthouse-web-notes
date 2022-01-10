@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository contains notes taken by Manseerat for Lighthouse Labs Web Development Bootcamp.
+This repository contains notes taken by [Manseerat](https://github.com/SeeratSidhu) for [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
